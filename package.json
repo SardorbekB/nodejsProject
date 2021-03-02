@@ -1,0 +1,22 @@
+{
+  "name": "myPortfolioSite",
+  "version": "1.0.0",
+  "description": "Mening portfolio saytim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sardorbek",
+    "portfolio"
+  ],
+  "author": "Qilichov Sardorbek",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.11.18"
+  }
+}
